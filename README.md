@@ -4,6 +4,9 @@
 
                                                          
 View the project work here: https://i.postimg.cc/1tpgR5dn/SS-001.jpg,  https://i.postimg.cc/J0G9cGWt/SS-002.jpg, https://i.postimg.cc/s2sqHnRk/SSS-003.jpg
+
+
+
 "Featured prominently within my Superstore project is an insightful analysis of sales performance, highlighting the top 10 most selling sub-categories of products and their corresponding quantities required to achieve these sales milestones. Leveraging bar charts, I showcase the top 15 customers based on revenue generated from their purchases, providing a comprehensive understanding of customer segmentation and contribution to overall revenue.
 
 Additionally, I employ a waterfall chart to visually depict the top 20 selling states, elucidating the correlation between sales performance and customer distribution across different regions. Furthermore, I analyze the quantity demanded by year, quarter, and profit generated in each period, offering valuable insights into seasonal trends and profit dynamics.
